@@ -9,15 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu_2D.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Scene Selector.unity
-    guid: 0bb5ca19f28da4442b5cd89b5be11c19
-  - enabled: 1
-    path: Assets/Scenes/Settings.unity
-    guid: d1699cfb78e9f4364b5ec4449f762b8f
-  - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: ba31017af78fb409f80a2a990b7df3ce
   - enabled: 1
     path: Assets/Scenes/Tax Dodger.unity
     guid: 0ece2114437e648e5a10841bed591638
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: c9a5653b2f3f34feeb52100c6c99398f
   m_configObjects: {}
